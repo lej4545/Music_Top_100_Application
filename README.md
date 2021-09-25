@@ -1,5 +1,5 @@
-# Music_Top_100_Widget
-< 음악 차트 Top 100 위젯 프로그램 >
+# Music_Top_100_Application
+< 음악 차트 Top 100 애플리케이션 >
 
 
 작성 언어: Python
